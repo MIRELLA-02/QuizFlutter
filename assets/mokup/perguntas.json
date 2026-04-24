@@ -1,0 +1,52 @@
+[
+  {
+    "pergunta": "Qual gás as plantas absorvem?",
+    "opcoes": ["Oxigênio", "Gás carbônico", "Nitrogênio", "Hidrogênio"],
+    "correta": "Gás carbônico"
+  },
+  {
+    "pergunta": "Qual é o maior órgão do corpo humano?",
+    "opcoes": ["Coração", "Pulmão", "Pele", "Fígado"],
+    "correta": "Pele"
+  },
+  {
+    "pergunta": "A água ferve a quantos graus?",
+    "opcoes": ["50°C", "100°C", "200°C", "0°C"],
+    "correta": "100°C"
+  },
+  {
+    "pergunta": "Qual planeta é conhecido como planeta vermelho?",
+    "opcoes": ["Terra", "Marte", "Júpiter", "Saturno"],
+    "correta": "Marte"
+  },
+  {
+    "pergunta": "Qual é a fonte de energia do Sol?",
+    "opcoes": ["Combustão", "Eletricidade", "Fusão nuclear", "Vento"],
+    "correta": "Fusão nuclear"
+  },
+  {
+    "pergunta": "Qual desses é um mamífero?",
+    "opcoes": ["Tubarão", "Golfinho", "Pinguim", "Cobra"],
+    "correta": "Golfinho"
+  },
+  {
+    "pergunta": "Qual parte da planta realiza fotossíntese?",
+    "opcoes": ["Raiz", "Caule", "Folha", "Semente"],
+    "correta": "Folha"
+  },
+  {
+    "pergunta": "Qual é o principal gás responsável pelo efeito estufa?",
+    "opcoes": ["Oxigênio", "Hidrogênio", "Gás carbônico", "Hélio"],
+    "correta": "Gás carbônico"
+  },
+  {
+    "pergunta": "Quantos planetas existem no Sistema Solar?",
+    "opcoes": ["7", "8", "9", "10"],
+    "correta": "8"
+  },
+  {
+    "pergunta": "Qual desses animais é um réptil?",
+    "opcoes": ["Sapo", "Lagarto", "Morcego", "Galinha"],
+    "correta": "Lagarto"
+  }
+]
