@@ -30,7 +30,7 @@ A ideia principal é transformar o aprendizado em uma experiência leve, dinâmi
 
 # ▶️ Como Rodar o Projeto
 - Passo 1: Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/MIRELLA-02/QuizFlutter.git
 - Passo 2: Entre na pasta
 cd nome-do-projeto
 - Passo 3: Instale as dependências
